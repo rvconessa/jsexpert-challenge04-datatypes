@@ -1,6 +1,6 @@
 import { describe, it, before } from 'mocha';
 import { expect } from 'chai';
-import { cryptoRepositoryMock, mocks } from '../mocks/CryptoRepository.mock.js';
+import { cryptoRepositoryMock, mocks } from '../mocks/setup.js';
 
 describe('CryptoReposittory suit tets', () => {
 
